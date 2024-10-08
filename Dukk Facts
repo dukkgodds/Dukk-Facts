@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dukk Facts</title>
+</head>
+<body>
+    <h1>Тавтай морилно уу</h1>
+    </p>Энэ нь counter strike2 тоглоомтой холбоотой мэдээллүүдийг харж болох монгол site юм.</p>
+    <a href="https://www.DukkFacts.mn">Dukk Facts site-руу орох</a>
+</body>
+</html>
+<!DOCTYPE html>
+</html>
+<head>
+    <title>Dukk Facts</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: lightsteelblue;
+            text-align: center;
+        }
+        h1 {
+            color: lightskyblue;
+        }
+        p {
+            color: aliceblue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Тавтай морилно уу</h1>
+    <p>Энэ нь counter strike2 тоглоомтой холбоотой мэдээллүүдийг харж болох монгол site юм.</p>
+    <a href="https://www.DukkFacts.mn">Dukk Facts site-руу орох</a>
+</body>
+</html>
+<DOCTYPE html>
+<html>
+<head>
+    <title>Dukk Facts</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: lightsteelblue;
+            text-align: center;
+        }
+        h1 {
+            color: lightskyblue;
+        }
+        p {
+            color: aliceblue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Тавтай морилно уу</h1>
+    <p>Энэ нь counter strike2 тоглоомтой холбоотой мэдээллүүдийг харж болох монгол site юм.</p>
+    <a href="https://www.DukkFacts.mn">Dukk Facts site-руу орох</a>
+
+    <button oneclick="greetUser()">Touch me!</button>
+
+    <script>
+        function greetUser() {
+            alert( 'Wsup! Тавтай морилно уу!');
+        }
+    </script>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dukk Facts</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Тавтай морилно уу</h1>
+    <p>Энэ нь counter strike2 тоглоомтой холбоотой мэдээллүүдийг харж болох монгол site юм.</p>
+    <a href="https://www.DukkFacts.mn">Dukk Facts site-руу орох</a>
+    
+    <button oneclick="greetUser()">Touch me!</button>
+
+    <script src="scrpt.js"><</script>
+</body>
+</html>
+        body {
+            font-family: Arial, sans-serif
+            background-color: #f0f0f0;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        function greetUser() {
+            alert('Wsup! Тавтай морилно уу!');
+        }        
